@@ -143,16 +143,6 @@ A domain-focused RAG assistant that answers questions using medical reference do
 
 ---
 
-## Community Involvement
-
-### TPH Society Volunteer
-
-- Participated in mental-health awareness and support initiatives
-- Assisted with elderly-care activities in old-age homes
-- Contributed essential supplies to underprivileged communities
-
----
-
 ## Contact
 
 I am interested in opportunities involving reliable AI products, agentic systems, RAG pipelines, developer tooling, and production backend systems.
